@@ -35,10 +35,8 @@ Gitarre und Verstärker beschäftigt und einiges umgebaut und modifiziert.
 
 ### Weitere Infos
 
-Meine Software findet ihr unter dem Gitlab-Symbol am Ende dieser Seite oder über
+Meine Software findet ihr unter dem Github-Symbol am Ende dieser Seite oder über
 die Downloads-Seite.
-Zum Teil liegt auch noch Software auf meinem alten Github-Profil, das ihr auch
-am Ende der Seite verlinkt findet.
 
 ### Kontakt
 
