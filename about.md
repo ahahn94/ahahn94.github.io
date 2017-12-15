@@ -1,40 +1,45 @@
 ---
 layout: page
-title: About
+title: Über diesen Blog
 permalink: /about/
 ---
 
-Jekyll Now illustrates the easiest possible workflow for setting up a Jekyll powered blog. My goal is for you to be able to use it to set up your blog as quickly as possible—giving you more time to spend on writing epic blog posts!
+### Über mich
 
-## Features
+Über Computerspiele bin ich zum ersten Mal mit PCs in Kontakt gekommen  (damals noch Windows 95 ;-)).  
+Ein halbes Jahrzehnt später kannte ich mich dann mit den Dingern besser aus als meine Eltern
+und der ganze Rest der Verwandschaft.  
 
-✓ _Command-line free fork-first workflow_, using GitHub.com to create, customize and post to your blog  
-✓ Fully responsive and mobile optimized base theme ([Theme Demo](http://jekyllnow.com))  
-✓ Sass/Coffeescript support using Jekyll 2.0  
-✓ Free hosting on your GitHub Pages user site  
-✓ Markdown blogging  
-✓ Syntax highlighting  
-✓ Disqus commenting  
-✓ Google Analytics integration  
-✓ SVG social icons for your footer  
-✓ 3 http requests, including your avatar  
+In der Mittelstufe habe ich dann Linux zum ersten Mal ausprobiert.  
+Liebe auf den ersten Blick war es aber nicht.  
+Bei der Installation von Ubuntu neben Windows XP habe ich mir komplett den Bootloader zerschossen.  
+Eine halbe Woche später lief XP dann wieder, Ubuntu hatte ich auf eine zweite Festplatte verbannt.   
+Aber die Idee, dass dieses System komplett von Freiwilligen in deren Freizeit entwickelt wird,  
+faszinierte mich schon damals.  
+Heute habe ich Linux schätzen gelernt und verwende es wesentlich häufiger als Windows.  
 
-✘ No installing dependancies  
-✘ No need to set up local development  
-✘ No configuring plugins  
-✘ No need to spend time on theming  
-✘ More time to code other things ... wait ✓! 
+Kurz vor der Oberstufe durfte ich dann anfangen, bei der Betreuung der Schulrechner  
+(damals noch die blauen Röhrenmonitor-Macs von Apple) zu helfen.  
 
-## That 2–3 minute set up
+Im Praktikum in der 11. Klasse kam ich dann zum ersten Mal mit Windows Server in Kontakt.  
 
-Check out the [Quick Start in the Jekyll Now repository](http://github.com/barryclark/jekyll-now#quick-start).
+Nach dem Abitur habe ich dann eine Ausbildung zum Fachinformatiker für Systemintegration gemacht.  
+Da mir das aber noch nicht reichte, studiere ich jetzt Allgemeine Informatik an der TH Köln.  
 
-Here's a sample:
+In den letzten Jahren habe ich mich neben dem Beruf mit Linux, Open Source und  
+IT-Sicherheit beschäftigt.
 
-![Initial setup of Jekyll Now]({{ site.baseurl }}/images/step1.gif "Initial setup of Jekyll Now")
+In meiner Freizeit war über die Jahre die E-Gitarre mein stetiger Begleiter.  
+Seit dem Ende meiner Schulzeit habe ich mich auch vermehrt mit der Technik hinter  
+Gitarre und Verstärker beschäftigt und einiges umgebaut und modifiziert.
 
-## Requests
+### Weitere Infos
 
-If you have questions about Jekyll Now working or feature requests I'd appreciate if you [open an issue](https://github.com/barryclark/jekyll-now/issues/new) to chat about them so that everyone can benefit.
+Meine Software findet ihr unter dem Gitlab-Symbol am Ende dieser Seite oder über
+die Downloads-Seite.
+Zum Teil liegt auch noch Software auf meinem alten Github-Profil, das ihr auch
+am Ende der Seite verlinkt findet.
 
-Get in touch with me using the links below.
+### Kontakt
+
+[ahahn94@outlook.com](mailto:ahahn94@outlook.com)
