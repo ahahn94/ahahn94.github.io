@@ -13,7 +13,7 @@ Im Folgenden habe ich eine Liste der von mir besonders häufig genutzten Git-Bef
 ### Repo klonen
 `git clone URL`  
 
-### Uptream hinzufügen*
+### Uptream hinzufügen
 `git remote add upstream URL`  
 `git fetch upstream`  
 `git rebase upstream/master`  
