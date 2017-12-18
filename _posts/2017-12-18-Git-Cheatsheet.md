@@ -1,15 +1,46 @@
 ---
 layout: post
-title: "Titel"
+title: "Git Sheetcheat"
 date: 2017-12-18 15:00:00 +0200
 categories: Allgemein
 ---
-|        |        |
-|--------|--------|
-|User konfigurieren|git config --global user.email NAME@EMAIL.TLD</br>git config --global user.name NAME|
-|Repo klonen|git clone URL|
-|Upstream hinzufügen|git remote add upstream URL</br>git fetch upstream</br>git rebase upstream/master|
-|Branch erzeugen|git checkout -b BRANCHNAME|
-|Änderungen committen|git add GEÄNDERTEDATEIEN</br>git commit -m "AUSSAGEKRÄFTIGE COMMITMESSAGE"|
-|Änderungen pushen|git push origin BRANCHNAME|
-|Branch löschen|git branch -d BRANCHNAME|
+<table>
+<tr>
+<td markdown="span">**Git einrichten**</td>
+<td markdown="span">
+*  git config --global user.email NAME@EMAIL.TLD
+*  git config --global user.name NAME
+</td>
+</tr>
+<tr>
+<td markdown="span">**Repo klonen**</td>
+<td markdown="span">git clone URL</td>
+</tr>
+<tr>
+<td markdown="span">**Upstream hinzufügen und aktualisieren**</td>
+<td markdown="span">
+*  git remote add upstream URL
+*  git fetch Upstream
+*  git rebase upstream/master
+</td>
+</tr>
+<tr>
+<td markdown="span">**Branch erzeugen**</td>
+<td markdown="span">git checkout -b BRANCHNAME</td>
+</tr>
+<tr>
+<td markdown="span">**Änderungen committen**</td>
+<td markdown="span">
+*  git add GEÄNDERTEDATEIEN
+*  git commit -m "AUSSAGEKRÄFTIGE COMMITMESSAGE"
+</td>
+</tr>
+<tr>
+<td markdown="span">**Änderungen pushen**</td>
+<td markdown="span">git push origin BRANCHNAME</td>
+</tr>
+<tr>
+<td markdown="span">**Branch löschen**</td>
+<td markdown="span">git branch -b BRANCHNAME</td>
+</tr>
+</table>
