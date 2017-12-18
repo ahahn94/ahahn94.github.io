@@ -8,8 +8,10 @@ categories: Allgemein
 <tr>
 <td markdown="span">**Git einrichten**</td>
 <td markdown="span">
-*  git config --global user.email NAME@EMAIL.TLD
-*  git config --global user.name NAME
+<ul>
+<li>git config --global user.email NAME@EMAIL.TLD</li>
+<li>git config --global user.name NAME</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -19,9 +21,11 @@ categories: Allgemein
 <tr>
 <td markdown="span">**Upstream hinzufügen und aktualisieren**</td>
 <td markdown="span">
-*  git remote add upstream URL
-*  git fetch Upstream
-*  git rebase upstream/master
+<ul>
+<li>git remote add upstream URL</li>
+<li>git fetch Upstream</li>
+<li>git rebase upstream/master</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -31,8 +35,10 @@ categories: Allgemein
 <tr>
 <td markdown="span">**Änderungen committen**</td>
 <td markdown="span">
-*  git add GEÄNDERTEDATEIEN
-*  git commit -m "AUSSAGEKRÄFTIGE COMMITMESSAGE"
+<ul>
+<li>git add GEÄNDERTEDATEIEN</li>
+<li>git commit -m "AUSSAGEKRÄFTIGE COMMITMESSAGE"</li>
+</ul>
 </td>
 </tr>
 <tr>
