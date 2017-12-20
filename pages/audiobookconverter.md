@@ -46,5 +46,4 @@ AudioBookConverter supports wildcards (`*`), so `abc *.m4a` will do the above fo
 
 ## AudioBookConverter in Action
 <iframe id="ytplayer" allowfullscreen="true" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/embed/Ugpe2cKMvh8"
-  frameborder="0"/>
+  src="https://www.youtube.com/embed/Ugpe2cKMvh8" frameborder="0"> </iframe>
