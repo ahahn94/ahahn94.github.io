@@ -7,6 +7,8 @@ permalink: audiobookconverter.html
 ## About
 AudioBookConverter Splits M4A-files into MP3-files by embedded chapter marks.  
 
+### <a href="https://github.com/ahahn94/AudioBookConverter">Download</a>  
+
 ## Install
 ### Dependencies
 #### Build
@@ -46,5 +48,3 @@ AudioBookConverter supports wildcards (`*`), so `abc *.m4a` will do the above fo
 <iframe id="ytplayer" allowfullscreen="true" type="text/html" width="640" height="360"
   src="https://www.youtube.com/embed/Ugpe2cKMvh8"
   frameborder="0"/>
-
-### <a href="https://github.com/ahahn94/AudioBookConverter">Download</a>
