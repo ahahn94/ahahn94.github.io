@@ -9,7 +9,12 @@ AudioBookConverter Splits M4A-files into MP3-files by embedded chapter marks.
 
 ## Install
 ### Dependencies
-- FFmpeg
+#### Build
+- openjdk-8-jdk  
+
+#### Run
+- openjdk-8-jre  
+- ffmpeg
 - libmp3lame
 
 ### Installation Instructions
