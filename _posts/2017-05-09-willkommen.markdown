@@ -13,11 +13,10 @@ Außerdem auch noch über:
 - meine Projekte  
 - Netzpolitik  
 - IT-Sicherheit  
-  
-Der Interessanteste Teil meines Blogs dürfte für viele aber wohl  
-der Downloads-Bereich werden, wo ich auf meine Software-Projekte verlinken werde.  
+
+Der Interessanteste Teil meines Blogs dürfte für viele aber wohl der Projekte-Bereich werden, wo ich auf meine Software-Projekte verlinken werde.  
 Soweit möglich und sinnvoll wird alle von mir geschriebene Software als freie Software veröffentlicht.  
 Dafür wähle ich in der Regel die GNU General Public License 2.  
 Die Software darf also kopiert, verwendet und bearbeitet werden.  
-  
+
 Viel Spass auf meinem Blog!
