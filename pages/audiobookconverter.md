@@ -4,6 +4,7 @@ title: "AudioBookConverter"
 published: true
 permalink: audiobookconverter.html
 ---
+[![Snap Status](https://build.snapcraft.io/badge/ahahn94/AudioBookConverter.svg)](https://build.snapcraft.io/user/ahahn94/AudioBookConverter)
 ## About
 AudioBookConverter Splits M4A-files into MP3-files by embedded chapter marks.  
 
