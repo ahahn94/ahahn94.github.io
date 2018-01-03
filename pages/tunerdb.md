@@ -14,6 +14,8 @@ permalink: tunerdb.html
 ### App Stores
 [![Available on the Amazon App Store](images/amazon-appsstore-us-gray-v2.png)](https://www.amazon.com/gp/mas/dl/android?p=de.ahahn94.tunerdb&ref=mas_pm_tunerdb)
 
+## <a href="https://github.com/ahahn94/TunerDB">Source Code</a>
+
 ## Screenshots
 <style>
 .tablelines table, .tablelines td, .tablelines th {
@@ -25,6 +27,3 @@ permalink: tunerdb.html
 |----------------------------------|----------------------------------|
 |![Land_01.png](images/Land_01.png)|![Land_02.png](images/Land_02.png)|  
 {: .tablelines}
-
-## Source Code
-### <a href="https://github.com/ahahn94/TunerDB">Source Code</a>
