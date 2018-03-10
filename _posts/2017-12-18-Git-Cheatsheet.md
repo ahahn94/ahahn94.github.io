@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Git Sheetcheat"
+title: "Git Cheatsheet"
 date: 2017-12-18 15:00:00 +0200
 categories: Allgemein
 ---
